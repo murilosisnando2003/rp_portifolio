@@ -1,0 +1,2 @@
+Projects App: Templates
+https://realpython.com/get-started-with-django-1/#showcase-your-projects
